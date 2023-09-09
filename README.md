@@ -1,1 +1,1 @@
-# qat_torch
+# Quantization Aware Training - Pytorch
